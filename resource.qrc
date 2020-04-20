@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/game_over.png</file>
+        <file>img/panorama.jpg</file>
+        <file>img/perso_down.png</file>
+        <file>img/perso_run.png</file>
+        <file>img/perso_stop.png</file>
+        <file>img/perso_up.png</file>
+        <file>img/spike1.png</file>
+        <file>img/spike2.png</file>
+        <file>img/panorama1.jpg</file>
+        <file>img/spike3.png</file>
+    </qresource>
+</RCC>
